@@ -39,6 +39,7 @@
 		FCCF693A2B7BB5F800B2092C /* num_3052.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = num_3052.cpp; sourceTree = "<group>"; };
 		FCCF693B2B7BB61900B2092C /* num_5597.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = num_5597.cpp; sourceTree = "<group>"; };
 		FCCF693C2B7BB63200B2092C /* num_9506.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = num_9506.cpp; sourceTree = "<group>"; };
+		FCCF693D2B7BBA1B00B2092C /* num_2566.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = num_2566.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +87,7 @@
 				FCCF693A2B7BB5F800B2092C /* num_3052.cpp */,
 				FCCF693B2B7BB61900B2092C /* num_5597.cpp */,
 				FCCF693C2B7BB63200B2092C /* num_9506.cpp */,
+				FCCF693D2B7BBA1B00B2092C /* num_2566.cpp */,
 			);
 			path = baekjoon;
 			sourceTree = "<group>";
