@@ -1,14 +1,8 @@
-//
-//  main.cpp
-//  baekjoon
-//
-//  Created by 변다솔 on 2/13/24.
-//
+//2566 문제 - 최댓값
 
 #include <iostream>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+int main(){
+    
 }
