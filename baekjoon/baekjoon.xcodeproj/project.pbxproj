@@ -23,6 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		FC40285A2B84AFAF00334004 /* num_1235(N).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "num_1235(N).cpp"; sourceTree = "<group>"; };
+		FC40285B2B84B3BA00334004 /* num_2751.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = num_2751.cpp; sourceTree = "<group>"; };
 		FCCF69242B7BB3CC00B2092C /* baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCCF69272B7BB3CC00B2092C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		FCCF692E2B7BB48800B2092C /* num_1076.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = num_1076.cpp; sourceTree = "<group>"; };
@@ -94,6 +96,8 @@
 				FCCF693F2B80C24700B2092C /* num_1157.cpp */,
 				FCCF69402B80EAEE00B2092C /* num_1316.cpp */,
 				FCCF69412B826E0800B2092C /* num_1037.cpp */,
+				FC40285A2B84AFAF00334004 /* num_1235(N).cpp */,
+				FC40285B2B84B3BA00334004 /* num_2751.cpp */,
 			);
 			path = baekjoon;
 			sourceTree = "<group>";
